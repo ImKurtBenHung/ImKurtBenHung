@@ -1,8 +1,8 @@
-class KurtBen {
-  name: 'KurtBen',
-  address: 'China Guangdong Shenzhen',
-  position: 'Front end engineer'
-}
+    class KurtBen {
+      name: 'KurtBen',
+      address: 'China Guangdong Shenzhen',
+      position: 'Front end engineer'
+    }
 
 <!---
 ImKurtBenHung/ImKurtBenHung is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
