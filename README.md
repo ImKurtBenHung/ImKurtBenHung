@@ -1,5 +1,5 @@
     class KurtBen {
-      name: 'KurtBen',
+      name: 'KurtBenHung',
       address: 'China Guangdong Shenzhen',
       position: 'Front end engineer'
     }
